@@ -1,0 +1,19 @@
+{
+  "name": "prayq",
+  "version": "1.0.0",
+  "description": "Global prayer network",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eriotero/prayq.git"
+  },
+  "author": "Eri Otero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eriotero/prayq/issues"
+  },
+  "homepage": "https://github.com/eriotero/prayq#readme"
+}
